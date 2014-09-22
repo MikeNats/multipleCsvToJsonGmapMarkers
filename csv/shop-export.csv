@@ -1,0 +1,502 @@
+SHOPNUMBER,ADDRESSLINE1,TOWNORCITY,POSTCODE,LONGITUDE,LATITUDE,DESCRIPTION,TITLE,UPDATED
+S22,38 High Street,Ashford,TN24 8TE,0.873773,51.149412,I am the description,I am the title,yes
+S23,60 Market Street,Atherton,M29 0DP,-2.505223,53.520441,I am the description,I am the title,yes
+S24,42 Main Street,Ballyclare,BT39 9AA,-6.0007,54.7521,I am the description,I am the title,yes
+S25,87 Church Street,Ballymena,BT43 6DG,-6.2747,54.8663,I am the description,I am the title,yes
+S26,19-21 Main Street,Ballymoney,BT53 6AN,-6.5178,55.0696,I am the description,I am the title,yes
+S27,59 Parsons Street,Banbury,OX16 8NB,-1.335217,52.054709,I am the description,I am the title,yes
+S28,"Unit 9, Ashbury Shopping Centre",Bangor,BT19 6TH,-5.636883,54.648011,I am the description,I am the title,yes
+S29,59 Hanbury Road,Bargoed,CF81 8QX,-3.229086,51.690174,I am the description,I am the title,yes
+S30,54 Ripple Road,Barking,IG11 7NT,0.081882,51.536328,I am the description,I am the title,yes
+S31,46 High Street,Barkingside,IG6 2DQ,0.081831,51.589539,I am the description,I am the title,yes
+S32,26 Horsemarket,Barnard Castle,DL12 8LZ,-1.923917,54.543916,I am the description,I am the title,yes
+S33,89 High Street,Barnstaple,EX31 1HR,-4.059763,51.079477,I am the description,I am the title,yes
+S34,4 South Walk,Basildon,SS14 1BZ,0.45886,51.569042,I am the description,I am the title,yes
+S35,"Unit 8, Brighton Hill Centre",Basingstoke,RG22 4EH,-1.114172,51.24503,I am the description,I am the title,yes
+S36,30 Shaftesbury Road,Bath,BA2 3LJ,-2.377383,51.376605,I am the description,I am the title,yes
+S37,35 North Bridge Street,Bathgate,EH48 4PL,-3.642292,55.902244,I am the description,I am the title,yes
+S38,4c Church Road,Bebington,CH63 7PH,-3.003049,53.349369,I am the description,I am the title,yes
+S39,7 Bridge Street,Belfast,BT1 1LT,-5.9292,54.6005,I am the description,I am the title,yes
+S40,74 Creagagh Road,Belfast,BT6 9EQ,-5.899601,54.584586,I am the description,I am the title,yes
+S41,Units 18 & 19 Kings Square Shopping Centre,Belfast,BT5 7EA,-5.844391,54.590018,I am the description,I am the title,yes
+S42,"Unit 14, Connswater Retail Park",Belfast,BT5 5DL,-5.893105,54.59472,I am the description,I am the title,yes
+S43,65a Nuxley Road,Belvedere,DA17 5JN,0.145712,51.481913,I am the description,I am the title,yes
+S44,1 Adelaide Centre,Benwell,NE4 8BE,-1.655752,54.97025,I am the description,I am the title,yes
+S45,5/7 Lower Kings Road,Berkhamstead,HP4 2AE,-0.565022,51.761011,I am the description,I am the title,yes
+S46,81 High Street,Bideford,EX39 2AA,-4.206403,51.017928,I am the description,I am the title,yes
+S47,35 High Street,Billericay,CM12 9BA,0.418699,51.627244,I am the description,I am the title,yes
+S48,98a Church Street,Bilston,WV14 0AX,-2.076449,52.565314,I am the description,I am the title,yes
+S49,16 Alcester Road South,Birmingham,B14 7PU,-1.893337,52.431953,I am the description,I am the title,yes
+S50,"Unit 3a, Hagley Road",Birmingham,B32 2AL,-1.987268,52.465047,I am the description,I am the title,yes
+S51,"181 Stratford Road,",Birmingham,B90 3AU,-1.827092,52.412996,I am the description,I am the title,yes
+S52,"348 Coventry Road,",Birmingham,B10 OXE,-1.864,52.4722,I am the description,I am the title,yes
+S53,"Unit 16 Fox & Goose Shopping Centre,",Birmingham,B8 2EP,-1.819781,52.493643,I am the description,I am the title,yes
+S54,106 Newgate Street,Bishop Auckland,DL14 7EW,-1.674866,54.662587,I am the description,I am the title,yes
+S55,32 Manor Farm Road,Bitterne Pk,SO2 4NP,-1.371469,50.916931,I am the description,I am the title,yes
+S56,393 Bitterne Road,Bitterne Village,SO18 5RR,-1.360631,50.914687,I am the description,I am the title,yes
+S57,"Unit 13 (inside Morrisons), Railway Road",Blackburn,BB1 5AZ,-2.479339,53.748284,I am the description,I am the title,yes
+S58,42 Abingdon Street,Blackpool,FY1 1DA,-3.051983,53.81904,I am the description,I am the title,yes
+S59,68 Topping Street,Blackpool,FY1 3AQ,-3.049845,53.819221,I am the description,I am the title,yes
+S60,52 Waterloo Road,Blackpool,FY4 1SB,-3.053937,53.781308,I am the description,I am the title,yes
+S61,86 High Street,Blackwood,NP2 1AE,-3.211834,51.66336,I am the description,I am the title,yes
+S63,"Unit 18 The Precinct, Westley Court",Blaydon,NE21 5BT,-1.712073,54.964672,I am the description,I am the title,yes
+S64,74 Waterloo Road,Blyth,NE24 1DG,-1.512412,55.12647,I am the description,I am the title,yes
+S65,10 Fore Street,Bodmin,PL31 2HQ,,,I am the description,I am the title,yes
+S66,8/10 Ridgeway Gates,Bolton,BL1 2AF,-2.431107,53.579767,I am the description,I am the title,yes
+S68,16 Brackley Street,Bolton,BL4 9DR,-2.394456,53.547922,I am the description,I am the title,yes
+S69,18 Brackley Street,Bolton,BL4 9DR,-2.394456,53.547922,I am the description,I am the title,yes
+S70,49 Newport Street,Bolton,BL1 1NE,-2.428891,53.577151,I am the description,I am the title,yes
+S71,187 Shenley Road,Borehamwood,WD6 1AW,-0.27289,51.65744,I am the description,I am the title,yes
+S73,Unit 3 Skirbeck Road,Boston,PE21 6JS,,,I am the description,I am the title,yes
+S74,"The West Side of Ash Street, Lake Road",Bowness,LA23 3DB,-2.919675,54.3642,I am the description,I am the title,yes
+S75,"Unit B1, Triangle Shopping Centre",Brackla,CF31 2LL,-3.560622,51.50742,I am the description,I am the title,yes
+S76,"Unit 3, Parkside Centre, Keighley Road",Bradford,BD9 4JR,-1.773248,53.815811,I am the description,I am the title,yes
+S77,11 Great Square,Braintree,CM7 1TX,0.551792,51.878797,I am the description,I am the title,yes
+S79,2 Adare Street,Bridgend,CF31 1EJ,-3.577558,51.506716,I am the description,I am the title,yes
+S80,50 West Street,Brighton,BN1 2RA,-0.143736,50.822603,I am the description,I am the title,yes
+S82,63 Henleaze Road,"Bristol, Henleaze",BS9 4TJ,-2.607892,51.48902,I am the description,I am the title,yes
+S83,414 Brixton Road,Brixton,SW9 7AY,-0.114727,51.464448,I am the description,I am the title,yes
+S84,16 Allport Lane,Bromborough,CH62 7HP,-2.978158,53.331706,I am the description,I am the title,yes
+S85,33 High Street,Bromley,BR1 1LE,0.0166,51.40139,I am the description,I am the title,yes
+S87,"Unit B, Briercliffe Shopping Centre, Briercliffe Road",Burnley,BB10 1WB,-2.230537,53.80508,I am the description,I am the title,yes
+S88,9 St Johns Street,Bury St Edmunds,IP33 1SQ,0.712123,52.247332,I am the description,I am the title,yes
+S89,45 High Road,Bushey Heath,WD23 1SH,-0.342818,51.634511,I am the description,I am the title,yes
+S91,18 Trelowarren Street,Camborne,TR14 8AA,-5.298006,50.214062,I am the description,I am the title,yes
+S92,53/55 High Street,Canvey Island,SS8 7RD,0.596751,51.523027,I am the description,I am the title,yes
+S93,4 Vulcan Place,Carbrooke,IP25 6XU,0.811329,52.593141,I am the description,I am the title,yes
+S95,2/3 Priory Street,Cardigan,SA43 1BU,-4.65852,52.083468,I am the description,I am the title,yes
+S96,31 Blue Street,Carmarthen,SA31 3LE,-4.307937,51.855668,I am the description,I am the title,yes
+S97,50 St Peters Street,Canterbury,CT1 2AT,1.077977,51.280384,I am the description,I am the title,yes
+S99,31 High Street,Carrickfergus,BT38 7AN,-5.807,54.7156,I am the description,I am the title,yes
+S100,62 Carlton Street,Castleford,WF10 1DB,-1.352879,53.726097,I am the description,I am the title,yes
+S101,3A Market Place,Chalfont St. Peter,SL9 9EA,-0.558737,51.606895,I am the description,I am the title,yes
+S102,17 High Street,Cheadle,SK8 1AZ,-2.216788,53.39098,I am the description,I am the title,yes
+S103,"Unit 3, Rectory Court, Wilmslow Road",Cheadle,SK8 1DW,-2.216934,53.39311,I am the description,I am the title,yes
+S104,76 High Street,Cheadle,SK8 1AE,-2.21619,53.394648,I am the description,I am the title,yes
+S105,"132, Gloucester Avenue",Chelmsford,CM2 9LG,0.475139,51.716592,I am the description,I am the title,yes
+S106,"Unit 3, Asda Centre, Village Square",Chelmsford,CM2 6RF,0.506548,51.736592,I am the description,I am the title,yes
+S107,9 Maplewalk,Chelmsley Wood,B37 5ST,-1.748772,52.478411,I am the description,I am the title,yes
+S108,3 Rowallan Way,Chellaston,DE73 5WX,-1.448692,52.868377,I am the description,I am the title,yes
+S109,88 High Street,Cheltenham,GL50 1EG,-2.072315,51.898674,I am the description,I am the title,yes
+S110,11 The Sainsbury's Centre,Chertsey,KT16 9AG,-0.503872,51.390963,I am the description,I am the title,yes
+S111,16 Frodsham Street,Chester,CH1 3JL,-2.888119,53.192037,I am the description,I am the title,yes
+S112,"Unit 2 East Side, River Lane",Chester,CH4 8RH,-2.923693,53.181402,I am the description,I am the title,yes
+S113,"Unit 2, Trevorrow Crescent (off Derby Road)",Chesterfield,S40 2GH,-1.426108,53.228216,I am the description,I am the title,yes
+S114,65 South Street,Chichester,PO19 1EE,-0.778992,50.835944,I am the description,I am the title,yes
+S115,"4 Ambassador House, Crane Street",Chichester,PO19 1LL,-0.779704,50.838029,I am the description,I am the title,yes
+S116,"183 Manford Way,",Chigwell,IG7 4DN,0.105643,51.608412,I am the description,I am the title,yes
+S117,70 Old Church Road,Chingford,E4 8BX,-0.017524,51.61964,I am the description,I am the title,yes
+S118,72 Turnham Green Terrace,Chiswick,W4 1QF,-0.253774,51.494478,I am the description,I am the title,yes
+S119,5-7 Cleveland Street,Chorley,PR7 1BH,-2.631328,53.65314,I am the description,I am the title,yes
+S120,"7 Bishop Walk, Cricklade Street",Cirencester,GL7 1JH,-1.968151,51.716211,I am the description,I am the title,yes
+S121,Unit 5 Rosemary Road,Clacton,CO15 1TE,1.152946,51.789967,I am the description,I am the title,yes
+S122,78 Victoria Road West,Cleveleys,FY5 1AG,-3.042474,53.87717,I am the description,I am the title,yes
+S123,"Unit 1, 485/507 Glasgow Road",Clydebank,G81 1JP,-4.390302,55.892867,I am the description,I am the title,yes
+S124,16 Stone Row,Coleraine,BT52 1EP,-6.6719,55.1314,I am the description,I am the title,yes
+S125,24 Collier Row Road,Collier Row,RM5 3NX,0.162318,51.599333,I am the description,I am the title,yes
+S126,40 Station Road,Colwyn Bay,LL29 8BU,-3.72666,53.295566,I am the description,I am the title,yes
+S127,"Unit L, Holmes Chapel Road, West Heath Retail Park",Congleton,CW12 4NB,-2.236406,53.165467,I am the description,I am the title,yes
+S128,12 Bridge Street,Congleton,CW12 1AY,-2.213558,53.163192,I am the description,I am the title,yes
+S129,"Unit 1, Deeside District Centre",Connah's Quay,CH5 4UQ,,,I am the description,I am the title,yes
+S130,69 Middle Street,Consett,DH8 5QG,-1.834311,54.852696,I am the description,I am the title,yes
+S131,"Unit 2, Oakley Vale District Centre, Butland Road",Corby,NN18 8LX,-0.712573,52.470847,I am the description,I am the title,yes
+S132,24 St Johns Way,Corringham,SS17 7LJ,0.44769,51.52502,I am the description,I am the title,yes
+S133,14 High Street,Cosham,PO6 3BZ,-1.067026,50.845733,I am the description,I am the title,yes
+S134,199 Daventry Road,Coventry,CV3 5HF,-1.505021,52.394466,I am the description,I am the title,yes
+S135,134 Jubilee Crescent,Coventry,CV6 3EF,-1.518429,52.423676,I am the description,I am the title,yes
+S136,"Unit 5, Granmercy Park",Coventry,CV4 9AE,-1.56066,52.390861,I am the description,I am the title,yes
+S137,137 High Street,Cowdenbeath,KY4 9QE,-3.344056,56.11262,I am the description,I am the title,yes
+S138,"Tudor Bakery, 83 High Street",Cranleigh,GU6 8AG,-0.488758,51.140787,I am the description,I am the title,yes
+S139,3 Alexandria Trading Estate,Cullompton,EX15 1BW,-3.386101,50.86169,I am the description,I am the title,yes
+S141,286/288 Heathway,Dagenham,RM10 8QS,0.148141,51.541842,I am the description,I am the title,yes
+S142,5-7 King Street,Deal,CT14 6HU,1.403133,51.224798,I am the description,I am the title,yes
+S144,62 Babbington Lane,Derby,DE1 1SX,-1.477308,52.918712,I am the description,I am the title,yes
+S145,4 Wine Street,Devizes,SN10 1AP,-1.99481,51.351875,I am the description,I am the title,yes
+S147,"Unit 1, Armthorpe Shopping Centre, Church Street",Doncaster,DN2 4QR,-1.092397,53.550867,I am the description,I am the title,yes
+S148,"Unit 2, Woodfield Plantation",Doncaster,DN4 8SN,-1.13829,53.491009,I am the description,I am the title,yes
+S149,Unit 2 & 3 Edlington Lane,Doncaster,DN12 1BS,-1.188221,53.48486,I am the description,I am the title,yes
+S151,135 High Street,Dovercourt,CO12 3AX,1.281285,51.937135,I am the description,I am the title,yes
+S152,431 Bromley Road,Downham,BR1 4PH,-0.004159,51.425199,I am the description,I am the title,yes
+S153,38 Middle Street South,Driffield,YO25 7PS,-0.445903,54.002931,I am the description,I am the title,yes
+S155,36 Church Crescent,Dumfries,DG1 1DF,-3.611838,55.070631,I am the description,I am the title,yes
+S156,125 Queensberry Street,Dumfries,DG1 1BH,-3.611375,55.070044,I am the description,I am the title,yes
+S157,55 Reform Street,Dundee,DD1 1SP,-2.971424,56.461891,I am the description,I am the title,yes
+S160,"Unit 1, Aberdour Road",Dunfermline,KY11 4RB,-3.435098,56.061222,I am the description,I am the title,yes
+S161,191 Kingsway,Dunmurry,BT17 9RY,-6.0052,54.5517,I am the description,I am the title,yes
+S162,"41 Hafton Place, Ferry Brae",Dunoon,PA23 7DJ,-4.925715,55.948233,I am the description,I am the title,yes
+S164,10 London Road,East Grinstead,RH19 1AG,-0.008394,51.124671,I am the description,I am the title,yes
+S165,150 Walton Road,East Molesley,KT8 OHP,-0.356165,51.400895,I am the description,I am the title,yes
+S166,"3 Parkway House, Sheen Lane",East Sheen,SW14 8SL,-0.257341,51.470054,I am the description,I am the title,yes
+S168,172 Field End Road,Eastcote,HA5 1RH,-0.399525,51.578117,I am the description,I am the title,yes
+S169,"Former Market House, Bethcar Street",Ebbw Vale,NP23 6HN,-3.208101,51.776755,I am the description,I am the title,yes
+S170,118 Station Road,Edgware,HA8 7AA,-0.277002,51.612279,I am the description,I am the title,yes
+S172,18/20 Gorgie Road,Edinburgh,EH11 2LZ,-3.227701,55.939128,I am the description,I am the title,yes
+S173,22/24 Gorgie Road,Edinburgh,EH11 2LZ,-3.227701,55.939128,I am the description,I am the title,yes
+S174,106 Nicolson Street,Edinburgh,EH8 9EJ,-3.183183,55.944533,I am the description,I am the title,yes
+S175,196 Portobello High Street,Edinburgh,EH15 1EX,-3.113317,55.95266,I am the description,I am the title,yes
+S176,45 Clerk Street,Edinburgh,EH8 9JQ,-3.182173,55.941865,I am the description,I am the title,yes
+S177,144/148/150 Leith Walk,Edinburgh,EH6 5DT,-3.174011,55.968432,I am the description,I am the title,yes
+S178,Unit 2B Falkirk Road,Linlithgow,EH49 7PH,,,I am the description,I am the title,yes
+S179,"Unit 1a, Meadowbank Retail Park, 16 Earlstone Place",Edinburgh,EH7 5SU,-3.167062,55.957392,I am the description,I am the title,yes
+S180,29/31 Deanhaugh Street,Edinburgh,EH4 1LR,-3.209549,55.958725,I am the description,I am the title,yes
+S181,Unit 14b Westside Plaza,Edinburgh,EH14 2SW,-3.28487,55.91538,I am the description,I am the title,yes
+S182,55 High Street,Elgin,IV30 1EE,-3.31197,57.649063,I am the description,I am the title,yes
+S183,67 High Street,Eltham,SE9 1HH,0.057832,51.454181,I am the description,I am the title,yes
+S184,"Unit 5, Horton Retail Centre, Covell House, Pelham Way",Epsom,KT19 8SP,-0.277071,51.344828,I am the description,I am the title,yes
+S185,"Unit 6A, Erith Riverside Shopping Centre, Bexley Rd",Erith,DA8 1SP,-0.17935,51.48114,I am the description,I am the title,yes
+S186,48 Grahams Road,Falkirk,FK1 1HR,-3.784236,56.003495,I am the description,I am the title,yes
+S187,"Unit 2, Bridge Street Retail Park",Falkirk,FK4 1AA,-3.887126,56.000975,I am the description,I am the title,yes
+S188,14 Market Strand,Falmouth,TR11 3DE,-5.071109,50.156524,I am the description,I am the title,yes
+S189,122 Hamilton Road,Felixstowe,IP11 8AB,-1.321205,51.951836,I am the description,I am the title,yes
+S190,199 Fleet Road,Fleet,GU13 8BL,-0.840704,51.281955,I am the description,I am the title,yes
+S191,114 Lord Street,Fleetwood,FY7 6SW,-3.016469,53.92068,I am the description,I am the title,yes
+S192,5 Church Street,Frodsham,WA6 7DN,-2.725682,53.295452,I am the description,I am the title,no
+S193,5 Kingsway Precinct,Frome,BA11 1BT,-2.320216,51.230586,I am the description,I am the title,no
+S194,Unit 10 St Mary's Green,Gateshead,NE16 4DN,-1.677469,54.946244,I am the description,I am the title,no
+S195,62 Packhorse Road,Gerrards Cross,SL9 8EF,-0.552147,51.588884,I am the description,I am the title,yes
+S196,Victory Pier,Gillingham,ME7 1AF,0.557332,51.395466,I am the description,I am the title,yes
+S197,38 Ancaster Drive,Glasgow,G13 1NB,-4.323242,55.888408,I am the description,I am the title,yes
+S198,"776 Anniesland Road, Knightswood",Glasgow,G14 OYU,,,I am the description,I am the title,yes
+S199,"Unit 9, Broomhill Shopping Centre",Glasgow,G11 7BW,-4.326148,55.87599,I am the description,I am the title,yes
+S200,"Unit 20, The Toll",Clarkston,G76 7BG,-4.276767,55.789767,I am the description,I am the title,yes
+S201,340 Duke Street,Glasgow,G31 1QZ,-4.222123,55.858163,I am the description,I am the title,yes
+S202,116 Dumbarton Road,Glasgow,G11 6NY,-4.298664,55.870589,I am the description,I am the title,yes
+S203,1111 Edinburgh Road,Glasgow,G33 3QE,-4.172572,55.863309,I am the description,I am the title,yes
+S204,250 Great Western Road,Glasgow,G4 9EJ,-4.273384,55.87291,I am the description,I am the title,yes
+S205,909-911 Shettleston Road,Glasgow,G32 7NU,-4.173413,55.852069,I am the description,I am the title,yes
+S206,483 Victoria Road,Glasgow,G42 8RL,-4.264998,55.834868,I am the description,I am the title,yes
+S207,"54, Wilson Court, Wilson Street",Glasgow,G1 1HD,-4.248369,55.858846,I am the description,I am the title,yes
+S208,17 Main Street,Glasgow,G62 6BJ,-4.317776,55.940477,I am the description,I am the title,yes
+S209,"Unit 6 Stewarton Road, Greenlaw Village",Glasgow,G77 6NP,-4.353683,55.781218,I am the description,I am the title,yes
+S210,36 Kilmarnock Road,Glasgow,G41 3NH,-4.282236,55.829804,I am the description,I am the title,yes
+S211,"Unit 1, 311 Old Edinburgh Road",Glasgow,G71 6PL,,,I am the description,I am the title,yes
+S212,Unit 4 North Street,Glenrothes,KY7 5NA,-3.167689,56.196484,I am the description,I am the title,yes
+S213,2 Bridge Street,Godalming,GU7 1HY,-0.60935,51.18649,I am the description,I am the title,yes
+S214,18 Golders Green Road,Golders Green,NW11 8LN,-0.19872,51.572868,I am the description,I am the title,yes
+S215,1/3 Whitworth Road,Gosport,PO12 3NJ,-1.14303,50.79771,I am the description,I am the title,yes
+S216,24 High Street,Grantham,NG31 6EH,-0.640577,52.909785,I am the description,I am the title,yes
+S217,15 Station Approach,Great Missenden,HP1 9AZ,,,I am the description,I am the title,yes
+S218,2 Mill Lane,Great Yarmouth,NR31 8HL,1.701963,52.576917,I am the description,I am the title,yes
+S220,95 Magdelen Way,Great Yarmouth,NR31 7AA,1.714833,52.573851,I am the description,I am the title,yes
+S221,81 West Blackhall Street,Greenock,PA15 1XP,-4.762539,55.951328,I am the description,I am the title,yes
+S222,1 High Street,Green Street Green,BR6 6BG,0.089739,51.353536,I am the description,I am the title,yes
+S224,81a High Street,Harborne,B17 9NN,-1.94718,52.459094,I am the description,I am the title,yes
+S225,117 High Street,Harborne,B17 9NP,-1.948608,52.45913,I am the description,I am the title,yes
+S226,3 Farnham Road,Harold Hill,RM3 8ED,0.219148,51.606618,I am the description,I am the title,yes
+S228,57 Leeds Road,Harrogate,HG2 8BE,-1.534499,53.977701,I am the description,I am the title,yes
+S229,5 Carlton Corner,Hartlepool,TS26 9EP,-1.218678,54.683188,I am the description,I am the title,yes
+S230,23 Queens Road,Hastings,TN34 1QY,0.581931,50.8567,I am the description,I am the title,yes
+S232,22 Pensby Road,Heswall,CH60 7RE,-3.098034,53.329341,I am the description,I am the title,yes
+S233,7 George Street,Hove,BN3 3YA,-0.173589,50.828929,I am the description,I am the title,yes
+S234,106 New Street,Huddersfield,HD1 2UD,-1.784066,53.643322,I am the description,I am the title,yes
+S236,"Unit 5, Prospect Centre, 75 Prospect Street",Hull,HU2 8PW,-0.343954,53.746408,I am the description,I am the title,yes
+S237,"Unit 1, St Andrews Retail Park, Hessle Road",Hull,HU3 3DU,-0.366728,53.734322,I am the description,I am the title,yes
+S238,"Unit 5, Kingston Shopping Centre, Holderness Road",Hull,HU9 2AA,-0.31293,53.753482,I am the description,I am the title,yes
+S239,48 High Street,Hythe,CT21 5AT,1.081674,51.07124,I am the description,I am the title,yes
+S241,12a Church Street,Inverness,IV1 1EA,-4.225428,57.477945,I am the description,I am the title,yes
+S242,"Unit 4, Garioch Centre",Inverurie,AB51 4UY,-2.376897,57.286607,I am the description,I am the title,yes
+S243,"Unit 9, Greenways",Ipswich,IP3 9QJ,1.199525,52.030318,I am the description,I am the title,yes
+S245,"Unit 2, East Road",Irvine,KA12 0AA,-4.666694,55.617152,I am the description,I am the title,yes
+S246,2 High Street,Jedburgh,TD8 6AG,-2.554504,55.478499,I am the description,I am the title,yes
+S247,56/57 Halkett Place,Jersey,JE2 4WG,-2.117669,49.198914,I am the description,I am the title,yes
+S249,240-274 Bedford Road,Kempston,MK42 8PZ,-0.468056,52.117314,I am the description,I am the title,yes
+S250,25 Market Street,Kendal,LA9 4TP,-2.74656,54.32834,I am the description,I am the title,yes
+S251,23 Station Street,Keswick,CA12 5HH,-3.135339,54.600766,I am the description,I am the title,yes
+S252,6 Queen Street,Kilmarnock,KA1 3DB,-4.496349,55.607894,I am the description,I am the title,yes
+S253,"Unit 2, Rainbow Centre, Grimston Road",Kings Lynn,PE30 3UA,0.42682,52.77542,I am the description,I am the title,yes
+S254,14 Market Street,Kirkby Stephen,CA17 4QS,-2.349249,54.474064,I am the description,I am the title,yes
+S255,249 High Street,Kirkcaldy,KY1 1JF,-3.157332,56.112067,I am the description,I am the title,yes
+S256,1 Market Place,Kirkham,PR4 2SD,-2.871247,53.782954,I am the description,I am the title,yes
+S257,27 Cowgate,Kirkintilloch,G66 1HW,-4.157875,55.940614,I am the description,I am the title,yes
+S258,9 Tatton Street,Knutsford,WA16 6AB,-2.375137,53.305203,I am the description,I am the title,yes
+S259,59 Penny Street,Lancaster,LA1 1XF,-2.800018,54.047079,I am the description,I am the title,yes
+S260,"Unit 3, Asda Complex, Station Street",Langley Mill,NG16 4LH,-1.330138,53.020192,I am the description,I am the title,yes
+S261,10 Linn Road,Larne,BT4 2BA,-5.875314,54.600757,I am the description,I am the title,yes
+S262,10 Victoria Terrace,Leamington Spa,CV31 3AB,-1.53354,52.286123,I am the description,I am the title,yes
+S263,109 High Street,Lee on Solent,PO13 9BU,-1.201574,50.801147,I am the description,I am the title,yes
+S264,37 Granby Street,Leicester,LE1 6EH,-1.130743,52.633648,I am the description,I am the title,yes
+S265,1482 London Road,Leigh on Sea,SS9 2UR,0.63209,51.548087,I am the description,I am the title,yes
+S266,24 Austhorpe Road,Leeds,LS15 8DX,-1.450396,53.807199,I am the description,I am the title,yes
+S267,30 Otley Road,Leeds,LS20 8AH,-1.71093,53.873325,I am the description,I am the title,yes
+S268,245 Selby Road,Leeds,LS15 OPH,-1.4555,53.7957,I am the description,I am the title,yes
+S269,"Unit 10, Penny Hill Centre, Church Street",Leeds,LS10 2AP,-1.528645,53.778851,I am the description,I am the title,yes
+S270,"Unit 2a, Northside Retail Park, Stonegate Road",Leeds,LS7 2TT,-1.564108,53.828733,I am the description,I am the title,yes
+S271,"Unit 12, Windsor Court Shopping Centre",Leeds,LS27 9BG,-1.601735,53.7459,I am the description,I am the title,yes
+S272,"Unit 4, Horsefair Centre",Leeds,LS22 6FL,-1.384209,53.929015,I am the description,I am the title,yes
+S273,5 Shorehead,Leven,KY8 4NR,-2.998071,56.19363,I am the description,I am the title,yes
+S274,4 Market Street,Limavady,BT49 0AA,-6.9525,55.0516,I am the description,I am the title,yes
+S275,262-263 High Street,Lincoln,LN2 1HW,-0.539825,53.231137,I am the description,I am the title,yes
+S276,"Unit 4, Nettleham Road Shopping Centre, Wolsey Way",Lincoln,LN2 4SX,-0.51618,53.250606,I am the description,I am the title,yes
+S277,74 High Street,Littlehampton,BN17 5DX,-0.541239,50.809238,I am the description,I am the title,yes
+S278,162 Walton Road,Liverpool,L4 4AZ,-2.972389,53.435126,I am the description,I am the title,yes
+S279,3/5 Altway,Liverpool,L10 3GA,-2.928869,53.476283,I am the description,I am the title,yes
+S280,19 Smithdown Place,Liverpool,L15 9EN,-2.913992,53.389187,I am the description,I am the title,yes
+S281,112 Allerton Road,Liverpool,L18 2DG,-2.909449,53.386992,I am the description,I am the title,yes
+S282,"Clayton Square Shopping Centre, Great Charlotte Street",Liverpool,L1 1QR,-2.980934,53.40551,I am the description,I am the title,yes
+S283,14 Cooks Road,Liverpool,L23 2TB,-3.027875,53.493152,I am the description,I am the title,yes
+S284,"Unit 2, Deysbrook Retail Parade, Deysbrook Lane",Liverpool,L12 4YF,-2.888778,53.435472,I am the description,I am the title,yes
+S285,"Unit 5, The Mall, Breck Road",Liverpool,L5 6SW,-2.95826,53.422656,I am the description,I am the title,yes
+S286,17 Chapel Lane,Liverpool,L37 4DL,-3.061428,53.557075,I am the description,I am the title,yes
+S287,"Unit C2, Huntscross Shopping Park, Speke Hall Road",Liverpool,L24 9SW,-2.839448,53.341579,I am the description,I am the title,yes
+S288,56 Derby Road,Liverpool,L36 9UL,-2.839253,53.410967,I am the description,I am the title,yes
+S289,18 Huyton Hay Road,Liverpool,L36 5RT,-2.838639,53.410342,I am the description,I am the title,yes
+S290,"Unit 3, Kensington Neighbourhood Centre",Liverpool,L7 OLQ,-2.942908,53.412378,I am the description,I am the title,yes
+S291,565-567 Prescot Road,Liverpool,L13 5UX,-2.910572,53.413952,I am the description,I am the title,yes
+S293,"Unit 27, Wavetree Retail Park, Wavetree Roaf",Liverpool,L7 5LZ,-2.946783,53.403259,I am the description,I am the title,yes
+S294,42 Whitechapel,Liverpool,L1 6DZ,-2.985055,53.406132,I am the description,I am the title,yes
+S295,21a Woolton Street,Liverpool,L25 5NJ,-2.864505,53.38169,I am the description,I am the title,yes
+S296,15 Mostyn Street,Llandudno,LL30 2NL,-3.825655,53.322814,I am the description,I am the title,yes
+S298,15 Castle Street,Llangollen,LL20 8NY,-3.170176,52.969994,I am the description,I am the title,yes
+S299,"London House, Ancaster Square",Llanwrst,LL26 0LD,-3.798352,53.13825,I am the description,I am the title,yes
+S300,8 Bishops Street,Londonderry,BT48 6PW,-7.3238,54.9954,I am the description,I am the title,yes
+S302,30 Shipquay Street,Londonderry,BT48 6DW,-7.320418,54.995897,I am the description,I am the title,yes
+S303,8-13 High Street,Loughborough,LE11 2PY,-1.204929,52.771534,I am the description,I am the title,yes
+S304,58 London Road North,Lowestoft,NR32 1EP,1.751677,52.474788,I am the description,I am the title,yes
+S305,2 High Street,Lurgan,BT66 6JA,-6.3365,54.4652,I am the description,I am the title,yes
+S306,89 Clifton Street,Lytham St Annes,FY8 5ER,-2.960844,53.737445,I am the description,I am the title,yes
+S308,80 Mill Street,Macclesfield,SK11 6NH,-2.125531,53.258231,I am the description,I am the title,yes
+S309,8 Madeley Centre,Madeley,TF7 5AB,-2.453123,52.636147,I am the description,I am the title,yes
+S311,"Unit 1, Hermitage Walk",Maidstone,ME16 9NZ,0.480408,51.270545,I am the description,I am the title,yes
+S312,18 Mid-Kent Shopping Centre,Maidstone,ME16 OPU,0.497081,51.286118,I am the description,I am the title,yes
+S313,50 High Street,Maldon,CM9 5PN,0.677199,51.731324,I am the description,I am the title,yes
+S314,"Unit 7, Chadderton Precinct",Manchester,OL9 0LQ,-2.14096,53.545623,I am the description,I am the title,yes
+S316,563 Wilbraham Road,Manchester,M21 0AE,,,I am the description,I am the title,yes
+S317,45 Deansgate,Manchester,M3 2AY,-2.246014,53.483009,I am the description,I am the title,yes
+S318,746 Wilmslow Road,Manchester,M20 2DW,,,I am the description,I am the title,yes
+S319,"Unit G, Fallowfield Retail Park, Birchfields Road",Manchester,M14 6FS,-2.204588,53.443009,I am the description,I am the title,yes
+S320,"Unit 3, North City Shopping Centre",Manchester,M9 4DH,-2.212268,53.512737,I am the description,I am the title,yes
+S321,374 Palatine Road,Manchester,M22 4FZ,-2.258391,53.407813,I am the description,I am the title,yes
+S322,"Unit 4, Gateway House, Station Approach",Manchester,M1 2GH,-2.230815,53.477885,I am the description,I am the title,yes
+S324,"Unit 108 Stretford Mall, Chester Road",Manchester,M32 9BA,-2.30942,53.445677,I am the description,I am the title,yes
+S325,99-101 The Parade,Manchester,M27 4BD,-2.337875,53.51189,I am the description,I am the title,yes
+S326,38 Flixton Road,Manchester,M41 5AA,-2.354899,53.448607,I am the description,I am the title,yes
+S327,"16, The Birtles, Civic Centre",Manchester,M22 5RF,-2.26189,53.379932,I am the description,I am the title,yes
+S329,7 George Street,Marylebone,W1U 3QH,-0.152131,51.517839,I am the description,I am the title,yes
+S330,"Unit 2, Holden Way",Mere Green,B74 2UG,-1.829278,52.585812,I am the description,I am the title,yes
+S331,5 Norfolk Place,Middlesborough,TS3 7BP,-1.21265,54.560126,I am the description,I am the title,yes
+S332,"Unit 1, Low Grange Farm, Normanby Road,",Middlesborough,TS6 9AE,,,I am the description,I am the title,yes
+S334,61 Charles Street,Milford Haven,SA73 2HA,-5.035006,51.713165,I am the description,I am the title,yes
+S335,5 High Street,Moffat,DG10 9ET,-3.444257,55.33231,I am the description,I am the title,yes
+S336,10 New Street,Mold,CH7 1NZ,-3.142446,53.166056,I am the description,I am the title,yes
+S337,172/174 High Street,Montrose,DD10 8JB,-2.468735,56.710977,I am the description,I am the title,yes
+S338,34 Euston Road,Morecambe,LA4 5DD,-2.865961,54.072481,I am the description,I am the title,yes
+S339,1 Newgate Street,Morpeth,NE61 1AL,-1.690989,55.16802,I am the description,I am the title,yes
+S340,147 High Street,Musselburgh,EH21 7DD,-3.051849,55.942498,I am the description,I am the title,yes
+S341,121 Muswell Hill Road,Muswell Hill,N10 3HS,-0.145923,51.589384,I am the description,I am the title,yes
+S342,22 Swinemarket,Nantwich,CW5 5LN,-2.523446,53.068117,I am the description,I am the title,yes
+S343,5 New Street,Neath,SA11 1RT,-3.804781,51.663446,I am the description,I am the title,yes
+S344,15/17 Slaughter House Lane,Newark,NG24 1ER,-0.809553,53.078186,I am the description,I am the title,yes
+S345,180/182 Shield Road,Newcastle,NE6 1DT,-1.581032,54.976836,I am the description,I am the title,yes
+S346,67 High Street,New Malden,KT3 4BT,-0.256382,51.401508,I am the description,I am the title,yes
+S347,177 Upper Dock Street,Newport,NP20 1DY,-2.996201,51.587992,I am the description,I am the title,yes
+S348,"Unit 6, 389-413 Malpas Road",Newport,NP20 6WB,-3.00703,51.611414,I am the description,I am the title,yes
+S349,127 Commercial Street,Newport,NP20 1LY,-2.994024,51.584383,I am the description,I am the title,yes
+S350,7c Bears Lane,Newtown,SY16 2QZ,-3.316155,52.515379,I am the description,I am the title,yes
+S351,9 Bank Street,Newton Abbott,TQ12 2JL,-3.612852,50.529962,I am the description,I am the title,yes
+S352,"Unit B2, The Parade, Greenwell Road",Newton Aycliffe,DL5 4DH,-1.571734,54.620739,I am the description,I am the title,yes
+S353,85 - 86 High Street,Northallerton,DL7 8PP,-1.434009,54.340164,I am the description,I am the title,yes
+S354,49a Gold Street,Northampton,NN1 1RA,-0.899236,52.236612,I am the description,I am the title,yes
+S355,802 High Road,North Finchley,N12 9QU,-0.176467,51.616497,I am the description,I am the title,yes
+S356,"Unit 3, 25 Market Place",North Walsham,NR28 9BJ,1.390662,52.8224,I am the description,I am the title,yes
+S357,"Unit 8 Albion Walk, Albiojn Street",Northwich,CW 9 5XU,,,I am the description,I am the title,yes
+S358,33 Green Lane,Northwood,HA6 2PX,-0.427106,51.612206,I am the description,I am the title,yes
+S359,28 Anglia Square,Norwich,NR3 1DZ,1.295158,52.636318,I am the description,I am the title,yes
+S360,"Unit 4, St Augustine Street, Aylsham Road",Norwich,NR3 3BE,1.291008,52.639194,I am the description,I am the title,yes
+S361,15 Angel Row,Nottingham,NG1 6HL,-1.152372,52.953543,I am the description,I am the title,yes
+S362,15 Scarffes Entry,Omagh,BT78 1JH,-7.3018,54.6002,I am the description,I am the title,yes
+S363,9 Wheatsheaf Walk,Ormskirk,L39 2XA,-2.885155,53.568118,I am the description,I am the title,yes
+S364,19 Cross Street,Oswestry,SY11 2NF,-3.054456,52.859658,I am the description,I am the title,yes
+S365,160 Cowley Road,Oxford,OX4 1UE,-1.235117,51.747068,I am the description,I am the title,yes
+S366,53 Station Road East,Oxted,RH8 0AX,-0.002855,51.257621,I am the description,I am the title,yes
+S367,10/13 Causewayhead,Penzance,TR18 2SN,-5.53828,50.11913,I am the description,I am the title,yes
+S368,18 Scott Street,Perth,PH1 5EJ,-3.432723,56.396181,I am the description,I am the title,yes
+S369,12 Errol Street,Peterhead,AB42 1PX,-1.782726,57.505309,I am the description,I am the title,yes
+S370,9 Love Lane,Pinner,HA5 3EE,-0.382239,51.595082,I am the description,I am the title,yes
+S371,"Armada Centre, Armada Way",Plymouth,PL1 1LE,-4.143971,50.373847,I am the description,I am the title,yes
+S372,14 Market Place,Pocklington,YO42 2AR,-0.778525,53.93028,I am the description,I am the title,yes
+S373,64 Taff Street,Pontypridd,CF37 4TD,-3.340052,51.603484,I am the description,I am the title,yes
+S376,126 High Street,Porthmadog,LL49 9NW,-4.132449,52.927247,I am the description,I am the title,yes
+S377,"Unit 5, Bridge Shopping Centre",Portsmouth,PO1 1SL,-1.077429,50.798577,I am the description,I am the title,yes
+S378,22 London Road,Portsmouth,PO2 OLN,-1.0795,50.8146,I am the description,I am the title,yes
+S380,"Unit 1A, Tulketh Mill Retail Park, Blackpool Road",Preston,PR2 2DZ,-2.725417,53.772601,I am the description,I am the title,yes
+S381,88 Main Street,Prestwick,KA9 2QL,-4.602969,55.518594,I am the description,I am the title,yes
+S382,"2 Severndale Shopping Centre, Bristol Road",Quedgeley,GL2 4PF,-2.27958,51.827093,I am the description,I am the title,yes
+S384,62 Bank Street,Rawtenstall,BB4 8EG,-2.285364,53.7039,I am the description,I am the title,yes
+S385,Unit 3 Rawreth Lane,Rayleigh,SS6 9RN,0.59659,51.605222,I am the description,I am the title,yes
+S386,47 Wokingham Road,Reading,RG6 1LH,-0.936821,51.448572,I am the description,I am the title,yes
+S388,"Unit 1, Vale Road/Marsh Road",Rhyl,LL18 2BT,-3.483325,53.31754,I am the description,I am the title,yes
+S389,88 High Street,Rickmansworth,WD3 1AQ,-0.471133,51.639282,I am the description,I am the title,yes
+S390,61 Yorkshire Street,Rochdale,OL16 1BZ,-2.156614,53.619295,I am the description,I am the title,yes
+S391,29 Market Street,Rochdale,OL10 1HX,-2.222086,53.593542,I am the description,I am the title,yes
+S393,"Unit 28, Liberty 2 Shopping Centre",Romford,RM1 3EE,,,I am the description,I am the title,yes
+S394,"19 The Market, Wrythe Lane",Rosehill,SM5 1AG,-0.188625,51.38292,I am the description,I am the title,yes
+S395,6/7 Broad Street,Ross on Wye,HR9 7EA,-2.583014,51.915197,I am the description,I am the title,yes
+S397,"Unit 3, Woodlaithes Neighbourhood Centre,",Woodlaithes,S66 3ZT,-1.276896,53.435101,I am the description,I am the title,yes
+S398,8 & 9 Angel Pavement,Royston,SG8 9AS,-0.022807,52.046517,I am the description,I am the title,yes
+S399,11 High Street,Royston,SG8 9AA,-0.023819,52.047362,I am the description,I am the title,yes
+S401,339 Hilmorton Road,Rugby,CV22 5EZ,-1.22883,52.359687,I am the description,I am the title,yes
+S402,6 Upper Brook Street,Rugeley,WS15 2DN,-1.936299,52.75896,I am the description,I am the title,yes
+S403,185 Main Street,Rutherglen,G73 2HG,-4.212265,55.828674,I am the description,I am the title,yes
+S405,33 Catherine Street,Salisbury,SP1 2DQ,-1.793653,51.067872,I am the description,I am the title,yes
+S406,23 Catherine Street,Salisbury,SP1 2DQ,-1.793653,51.067872,I am the description,I am the title,yes
+S408,"Unit 4 Sandbach Shopping Precinct, 19 Penda Way",Sandbach,CW11 1GQ,,,I am the description,I am the title,yes
+S409,3 Aberdeen Walk,Scarborough,YO11 1BA,-0.402761,54.282531,I am the description,I am the title,yes
+S410,64 Church Street,Seaham,SR7 7HF,-1.33363,54.83726,I am the description,I am the title,yes
+S411,7 Finkle Street,Selby,YO8 ODT,-1.069089,53.78455,I am the description,I am the title,yes
+S412,"Unit B, Doncaster Road",Selby,YO8 9EG,-1.08875,53.768846,I am the description,I am the title,yes
+S414,"Unit 2, Birley Moor Road",Sheffield,S12 4WB,-1.402192,53.350338,I am the description,I am the title,yes
+S415,231 Crookes Road,Sheffield,S10 1TE,-1.508433,53.385411,I am the description,I am the title,yes
+S417,196 Hutton Road,Shenfield,CM15 8NR,0.328534,51.63083,I am the description,I am the title,yes
+S420,"Unit 2, The Broadway",Silver End,CM8 3RB,0.621995,51.847647,I am the description,I am the title,yes
+S418,"Unit 3a, Northumberland Park District Centre, Earsdon Rd",Shiremoor,NE27 OJH,-1.524475,55.041653,I am the description,I am the title,yes
+S419,"Unit 27, Level 4 Shopping Centre",Shrewsbury,SY1 1PL,,,I am the description,I am the title,yes
+S421,225 High Street,Slough,SL1 1BY,-0.589608,51.508169,I am the description,I am the title,yes
+S422,302 Farnham Road,Slough,SL1 4XL,-0.615224,51.524948,I am the description,I am the title,yes
+S423,543 Bearwood Road,Smethwick,B66 4BH,-1.96901,52.474906,I am the description,I am the title,yes
+S424,120 Main Street,Solihull,B90 1UA,-1.83684,52.38505,I am the description,I am the title,yes
+S425,"Unit 10, Shirley Shopping Precinct",Southampton,SO16 4EY,-1.434731,50.923836,I am the description,I am the title,yes
+S426,2 Tulketh Street,Southport,PR8 1AQ,-3.003745,53.646273,I am the description,I am the title,yes
+S427,33 Marmion Road,Southsea,PO5 2AT,-1.086624,50.78623,I am the description,I am the title,yes
+S428,101 George Lane,South Woodford,E18 1AN,0.02655,51.592701,I am the description,I am the title,yes
+S429,4 Bell Street,St Andrews,KY16 9UX,-2.798801,56.339569,I am the description,I am the title,yes
+S430,43 Bell Street,St Andrews,KY16 9UR,-2.798466,56.339804,I am the description,I am the title,yes
+S431,10 The Square,St Annes,FY8 1RF,-3.030741,53.751326,I am the description,I am the title,yes
+S432,55 St Annes Road West,St Annes on Sea,FY8 1SB,-3.03148,53.751796,I am the description,I am the title,yes
+S433,8 The Pavement,St Ives,PE27 5AD,-0.073003,52.323609,I am the description,I am the title,yes
+S434,4 High Street,St Neots,PE19 1JA,,,I am the description,I am the title,yes
+S435,38 Broad Street,Stamford,PE19 19X,,,I am the description,I am the title,yes
+S436,"Unit 5, Bellona Drive",Stanground,PE2 8GP,-0.299159,52.547491,I am the description,I am the title,yes
+S437,"4-6 The Precinct, Castle Street",Stockport,SK3 9AJ,-2.167241,53.402124,I am the description,I am the title,yes
+S438,209 and 211 London Road,Stockport,SK7 4HH,-2.122946,53.381028,I am the description,I am the title,yes
+S439,127 London Road,Stockport,SK7 4HH,-2.122946,53.381028,I am the description,I am the title,yes
+S440,20 Market Street,Stockport,SK6 7AD,-2.063885,53.393694,I am the description,I am the title,yes
+S441,18 Longton Exchange,Stoke-On-Trent,ST3 2JA,-2.135142,52.988057,I am the description,I am the title,yes
+S442,129-131 High Street,Stourbridge,DY8 1DT,-2.14572,52.4563,I am the description,I am the title,yes
+S443,Unit 3 Meadow Centre,Stowmarket,IP14 1DE,0.993989,52.187499,I am the description,I am the title,yes
+S444,47 Hanover Street,Stranraer,DG9 7RX,-5.02456,54.903375,I am the description,I am the title,yes
+S445,22 North Street,Sudbury,CO10 6RB,0.73028,52.040605,I am the description,I am the title,yes
+S446,150 Chester Road,Sunderland,SR4 7EY,-1.400096,54.90239,I am the description,I am the title,yes
+S447,11 Stockton Road,Sunderland,SR1 3NW,-1.386336,54.902788,I am the description,I am the title,yes
+S448,27 Lukes Terrace,Sunderland,SR4 6NQ,-1.414212,54.908243,I am the description,I am the title,yes
+S449,"Unit 10, Pennywell Shopping Centre, Portsmouth Road",Sunderland,SR4 9AS,-1.439348,54.896763,I am the description,I am the title,yes
+S450,32 Woodfield Street,Swansea,SA6 8AB,-3.925464,51.664688,I am the description,I am the title,yes
+S451,20 Station Road,Taunton,TA1 1NL,-3.105298,51.019886,I am the description,I am the title,yes
+S452,49 Broad Street,Teddington,TW11 8QZ,-0.338427,51.42617,I am the description,I am the title,yes
+S453,39 Riverside Walk,Thetford,IP24 2BB,0.747672,52.413677,I am the description,I am the title,yes
+S454,"Unit 1a, Thornton Shopping Centre, Victoria Road East",Thornton Cleveleys,FY5 5DX,-3.000873,53.869828,I am the description,I am the title,yes
+S455,Unit 1 Pound Lane,Thorpe St Andrew,NR7 0SR,1.361408,52.63084,I am the description,I am the title,yes
+S456,10 Angel Walk,Tonbridge,TN9 1TJ,0.273649,51.193426,I am the description,I am the title,yes
+S457,26/28 Commercial Road,Totton,SO4 3BY,-1.486177,50.918786,I am the description,I am the title,yes
+S458,"Unit 1a, 47 High Street",Tow Law,DL13 4DH,-1.81493,54.744818,I am the description,I am the title,yes
+S459,16 Portland Street,Troon,KA10 6EA,-4.663442,55.544296,I am the description,I am the title,yes
+S460,28 River Street,Truro,TR1 2SJ,-5.054129,50.263671,I am the description,I am the title,yes
+S461,87 Mount Pleasant Road,Tunbridge Wells,TN1 1PX,0.263157,51.132672,I am the description,I am the title,yes
+S462,43 Corbets Tey Road,Upminster,RM14 2AJ,0.248397,51.554064,I am the description,I am the title,yes
+S464,26 The Maltings,Uttoxeter,ST14 7LN,-1.864664,52.899558,I am the description,I am the title,yes
+S465,"Unit 4, Stanley Road",Wakefield,WF1 4PT,-1.473713,53.686549,I am the description,I am the title,yes
+S466,"Unit 6c, Ravensthorpe Shopping Park, Huddersfield Road",Wakefield,WF13 3JW,-1.65732,53.679187,I am the description,I am the title,yes
+S468,118 Station Road,Wallsend,NE28 8QS,-1.533804,54.991554,I am the description,I am the title,yes
+S469,15 Bradford Street,Walsall,WS1 1PB,-1.982955,52.583219,I am the description,I am the title,yes
+S470,70 High Street,Wanstead,E11 2RJ,0.027271,51.576151,I am the description,I am the title,yes
+S471,9 Bridgefoot High Street,Ware,SG12 9BS,-0.029707,51.810025,I am the description,I am the title,yes
+S473,11 The Precinct,Waterlooville,PO7 7DT,-1.030363,50.880083,I am the description,I am the title,yes
+S474,11 High Street,Watton,IP25 6AB,0.825052,52.571213,I am the description,I am the title,yes
+S475,15 Union Street,Wednesbury,WS10 7HD,-2.020531,52.552491,I am the description,I am the title,yes
+S476,52 New Street,Wellington,TF1 1NE,-2.516932,52.700343,I am the description,I am the title,yes
+S478,184 High Street,West Bromwich,B70 7QS,,,I am the description,I am the title,yes
+S479,105 Poole Road,Westbourne,BH4 9BB,-1.903459,50.722976,I am the description,I am the title,yes
+S480,30a Central Avenue,West Bridgeford,NG2 5GQ,-1.126195,52.931851,I am the description,I am the title,yes
+S482,"Unit 13, 14, 15 The Boulevard, Octagon Way",Weston Favell,NN3 8JP,-0.837344,52.256428,I am the description,I am the title,yes
+S483,1295 High Road,Whetstone,N20 9HX,-0.175571,51.631276,I am the description,I am the title,yes
+S484,202 Park View,Whitley Bay,NE26 3QR,-1.45174,55.04504,I am the description,I am the title,yes
+S485,204 Park View,Whitley Bay,NE26 3QR,-1.45174,55.04504,I am the description,I am the title,yes
+S486,57 High Street,Whitstable,CT5 1AP,1.024938,51.359587,I am the description,I am the title,yes
+S488,1 Albert Square,Widnes,WA8 6JW,-2.726692,53.368514,I am the description,I am the title,yes
+S489,52 Standishgate,Wigan,WN1 1UW,-2.630387,53.548421,I am the description,I am the title,yes
+S491,14 Queens Parade,Winsford,CW7 1AB,-2.524794,53.189913,I am the description,I am the title,yes
+S492,385 Wimbourne Road,Winton,BH9 2AQ,-1.87869,50.7419,I am the description,I am the title,yes
+S493,191 Main Street,Wishaw,ML2 7NE,-3.924488,55.775783,I am the description,I am the title,yes
+S494,29 Newland Street,Witham,CM8 2AF,,,I am the description,I am the title,yes
+S496,66 Queen Street,Wolverhampton,WV1 3BY,-2.126312,52.585265,I am the description,I am the title,yes
+S497,57-59 Crockhamwell Road,Woodley,RG5 3SZ,-0.906151,51.451752,I am the description,I am the title,yes
+S498,98 Bridge Street,Worksop,S80 1HZ,-1.124988,53.302173,I am the description,I am the title,yes
+S500,"Unit B, Newcastle Avenue",Worksop,S80 1LD,-1.145863,53.286446,I am the description,I am the title,yes
+S501,"Unit 3, 172 High Street",Worle,BS22 6JD,-2.926943,51.360228,I am the description,I am the title,yes
+S502,15 Mealcheapen Street,Worcester,WR1 2DQ,-2.2192,52.192711,I am the description,I am the title,yes
+S503,"Unit 9, Dodds Lane",Wrexham,LL11 4NT,-3.014757,53.071628,I am the description,I am the title,yes
+S504,Unit 13 The Broadway,Yaxley,PE7 3JL,-0.2511,52.516884,I am the description,I am the title,yes
+S505,"3 Odsal House, Front Street",York,YO2 3BL,-1.140101,53.929368,I am the description,I am the title,yes
+S62,45 Allan Street,Blairgowrie,PH10 6AB,-3.338053,56.592517,I am the description,I am the title,yes
+S67,"Unit 4b, Burden Park, Manchester Road",Bolton,BL3 2NE,-2.41572,53.569323,I am the description,I am the title,yes
+S72,664-666 Christcurch Road,Boscombe,BH7 6BT,-1.836137,50.727712,I am the description,I am the title,yes
+S78,82 High Street,Braintree,CM7 1JP,0.550213,51.878058,I am the description,I am the title,yes
+S81,798 Fishponds Road,"Bristol, Fishponds",BS16 3TE,-2.527837,51.481253,I am the description,I am the title,yes
+S86,38 Beaufort Street,Brynmawr,NP23 4AF,-3.175455,51.799457,I am the description,I am the title,yes
+S90,61 Spring Gardens,Buxton,SK17 6BJ,-1.911172,53.259415,I am the description,I am the title,no
+S94,103 Albany Road,Cardiff,CF2 3LP,-3.175395,51.484255,I am the description,I am the title,yes
+S98,18a High Street,Carrickfergus,BT38 7AF,-5.8075,54.7158,I am the description,I am the title,yes
+S140,44 Crossgate,Cupar,KY155HS,-3.01161,56.317915,I am the description,I am the title,yes
+S143,59 The Boadway,Debden,IG10 3SP,0.084129,51.648247,I am the description,I am the title,yes
+S146,34 Mill Street,Doncaster,DN3 3DL,-1.050825,53.535964,I am the description,I am the title,no
+S150,76 Biggin Street,Dover,CT16 1BB,1.309544,51.127315,I am the description,I am the title,yes
+S154,16 Dronfield Civic Centre,Dronfield,S18 1PD,-1.474901,53.301358,I am the description,I am the title,yes
+S158,"Unit 5, 146 Strathmartine Road",Dundee,DD3 7SE,-2.980748,56.474837,I am the description,I am the title,yes
+S163,9a Market Place,East Dereham,NR19 2AW,0.940252,52.681428,I am the description,I am the title,yes
+S167,16 Terminus Road,Eastbourne,BN21 3LP,0.280702,50.769,I am the description,I am the title,yes
+S171,26 Crighton Place,Edinburgh,EH7 4NN,-3.18707,55.964802,I am the description,I am the title,yes
+S219,141 High Street,Great Yarmouth,NR31 6RB,1.727631,52.579088,I am the description,I am the title,yes
+S223,9-11 Stafford Street,Hanley,ST1 1JW,-2.175722,53.024712,I am the description,I am the title,yes
+S227,5 Beulah Street,Harrogate,HG1 1QQ,-1.538609,53.993637,I am the description,I am the title,yes
+S231,34 High Street,Haverfordwest,SA61 2DA,-4.970014,51.801681,I am the description,I am the title,yes
+S235,320 Holderness Road,Hull,HU9 3DA,-0.309541,53.755933,I am the description,I am the title,yes
+S240,23 Kennedy Way,Immingham,DN40 2AB,-0.213912,53.615785,I am the description,I am the title,yes
+S244,25/27 Bridgegate,Irvine,KA12 8BJ,-4.667614,55.614381,I am the description,I am the title,yes
+S248,6 Broad Street,Jersey,JE2 3RR,-2.117669,49.198914,I am the description,I am the title,yes
+S292,"Unit 14, Speke Retail Park",Liverpool,L24 2WZ,-2.839389,53.345276,I am the description,I am the title,yes
+S297,11 Stepney Street,Llanelli,SA15 3YB,-4.16104,51.682026,I am the description,I am the title,yes
+S301,"Anglia House, The Diamond",Londonderry,BT48 6HN,-7.322118,54.995182,I am the description,I am the title,yes
+S307,14 Mill Street,Macclesfield,SK11 6LY,-2.124386,53.259113,I am the description,I am the title,yes
+S310,Unit 5a Rainey Street Park,Magherafelt,BT45 5AN,-6.614794,54.75631,I am the description,I am the title,yes
+S315,11 Union Terrace (Bury Old Road),Manchester,M7 4ZH,-2.245864,53.512583,I am the description,I am the title,yes
+S323,"Unit 6, Radcliffe Park, Phoebe Street",Manchester,M5 3PH,-2.279191,53.473724,I am the description,I am the title,yes
+S328,32 Cheshire Street,Market Drayton,TF9 1PH,-2.485523,52.904655,I am the description,I am the title,yes
+S333,"3 The Hollies, High Street",Midsomer Norton,BA3 2DT,-2.482495,51.286337,I am the description,I am the title,yes
+S375,16 Thomas Street,Portadown,BT62 3NP,-6.4444,54.4226,I am the description,I am the title,yes
+S379,56 High Street,Prestatyn,LL19 1BB,-3.403631,53.334164,I am the description,I am the title,yes
+S383,"Unit 3, 55 The Loan",Queensferry,EH30 9SD,-3.398471,55.99,I am the description,I am the title,yes
+S387,8 Wellington Road,Rhyl,LL18 1BG,-3.490577,53.320173,I am the description,I am the title,yes
+S392,94-96 High Street,Rochester,ME1 1JT,0.50495,51.387982,I am the description,I am the title,yes
+S396,49-51 Wellgate,Rotherham,S60 2LT,-1.353895,53.429727,I am the description,I am the title,yes
+S400,183 New Road,Rubery,B45 9JP,-2.017796,52.393944,I am the description,I am the title,yes
+S404,6 Market Walk,Saffron Walden,CB10 1JZ,0.240754,52.023014,I am the description,I am the title,yes
+S407,"Unit 5 Regal House, Fore Street",Saltash,PL12 6JR,-4.214457,50.409106,I am the description,I am the title,yes
+S413,9 West Port,Selkirk,TD7 4DG,-2.842944,55.546582,I am the description,I am the title,yes
+S416,52 Middleswood Road,Sheffield,S6 4AH,-1.513261,53.414213,I am the description,I am the title,yes
+S463,"Unit 3, Weston Grove",Upton,CH2 1QL,-2.880565,53.214161,I am the description,I am the title,yes
+S467,"Unit 2, Lloyds Corner Shopping Centre, Liscard Road",Wallasey,CH44 6QY,-3.01663,53.409319,I am the description,I am the title,yes
+S472,264 London Road,Waterlooville,PO7 7HG,-1.032969,50.87845,I am the description,I am the title,yes
+S477,23 High Street,Wells,BA5 2AA,-2.646352,51.208809,I am the description,I am the title,yes
+S481,"Unit 9, The Boulevard, Octagan Way",Weston Favell,NN3 8JL,-0.836039,52.255354,I am the description,I am the title,yes
+S487,240 Bawtry Road,Wickersley,S66 1AA,-1.284954,53.420837,I am the description,I am the title,no
+S490,"Unit 2, 404 Gidlow Lane",Wigan,WN6 7PL,-2.646109,53.559033,I am the description,I am the title,yes
+S495,10 Lichfield Street,Wolverhampton,WV1 1DG,-2.126802,52.586298,I am the description,I am the title,yes
+S499,"Unit E, Raymouth Lane",Worksop,S81 7AZ,-1.133329,53.326019,I am the description,I am the title,yes
+S3,33 Commercial Street,Aberdare,CF44 7RW,-3.443695,51.713817,I am the description,I am the title,yes
+S4,Unit 4 Riverside Retail Park,Aberdare,CF44 0AH,-3.42034,51.702026,I am the description,I am the title,yes
+S5,22/23 Castle Street,Aberdeen,AB11 5BQ,-2.092682,57.148531,I am the description,I am the title,no
+S6,34 St Andrew Street,Aberdeen,AB25 1JA,-2.101974,57.149979,I am the description,I am the title,no
+S7,"Unit 7, Westhill Shopping Centre, Old Skerne Road",West Hill,AB32 6RL,-2.278419,57.153871,I am the description,I am the title,no
+S8,6 Cross Street,Abergavenny,NP7 5EH,-3.0182,51.821551,I am the description,I am the title,no
+S9,18 North Parade,Aberystwyth,SY23 2NF,-4.081459,52.416045,I am the description,I am the title,no
+S10,87/89 Station Road,Addlestone,KT15 2AR,-0.488765,51.371787,I am the description,I am the title,no
+S11,35 London Road,Alderley Edge,SK9 7JT,-2.236013,53.302656,I am the description,I am the title,no
+S12,163 Main Street,Alexandria,G83 0NX,-4.581563,55.987154,I am the description,I am the title,no
+S13,Unit 5 Institute Lane,Alfreton,DE55 7BQ,-1.388117,53.096877,I am the description,I am the title,no
+S14,22 High Street,Alloa,FK10 1JE,-3.791734,56.11515,I am the description,I am the title,no
+S15,11 Regent Road,Altrincham,WA14 1RY,-2.352044,53.385641,I am the description,I am the title,no
+S16,76 Sycamore Road,Amersham,HP6 5DR,-0.606337,51.677534,I am the description,I am the title,no
+S17,"Unit 5, Bence Road",Amesbury,SP4 7FR,-1.763536,51.163887,I am the description,I am the title,yes
+S18,"Unit A, Carregamman",Ammanford,SA18 3EH,-3.989613,51.790024,I am the description,I am the title,yes
+S19,17 West Port,Arbroath,DD11 1RE,-2.588767,56.558405,I am the description,I am the title,yes
+S20,21-26 Scotch Street,Armagh,BT61 7BY,-6.6527,54.3475,I am the description,I am the title,yes
+S21,98/100 Front Street,Arnold,NG5 7EJ,-1.127129,53.00372,I am the description,I am the title,yes

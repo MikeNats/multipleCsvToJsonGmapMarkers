@@ -1,0 +1,32 @@
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+      }
+      .buttons{
+        background-color: #78bc21;
+        box-shadow: 0 3px 17px -2px #000;
+        height: 70px;
+        position: absolute;
+        right: 9px;
+        top: 30px;
+        width: 80px;
+        z-index:999;
+        border-radius: 1px;
+
+      }
+      .buttons ul{
+        padding-left:10px;
+        float:left;
+        margin:0;
+        list-style:none;
+        margin-top:14px;
+      }
+      .buttons ul{
+        list-style: none;
+        width:100%;
+        color:#fff;
+        cursor: pointer;
+        font-weight: bold;
+      }
