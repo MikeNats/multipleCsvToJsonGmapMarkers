@@ -12,3 +12,4 @@ For exaple:
 http://www.myDomain.com/index.html?url:./csv/shops.csv&img:./img/shop.png&dim:20&category:shop&url:./csv/service.csv&img:./img/service.png&dim:20&category:service
 
 
+ 
