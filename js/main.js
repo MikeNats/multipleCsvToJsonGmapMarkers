@@ -27,13 +27,13 @@
         query_string[pair[0]].push(pair[1]);
       }
     }
-     validation = validationArray.length / 4;
-      if(validation == parseInt(validation)) {
-        query_string.iterates = validation; 
-      }else{
-        alert('Wrong pair of values. Please check the Url');
-          return ;
-      }
+    validation = validationArray.length / 4;//check 4 pair of variables needed
+    if(validation == parseInt(validation)) {
+      query_string.iterates = validation; 
+    }else{
+      alert('Wrong pair of values. Please check the Url');
+      return;
+    }
     return query_string;
   } 
 
